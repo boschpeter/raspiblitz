@@ -1,7 +1,7 @@
 # raspiblitz
 
 
-![tt](../../pictures/raspiblitz_github-lab+projectsetup_00.png)
+![tt](././pictures/raspiblitz_github-lab+projectsetup_00.png)
 ![tt](./../pictures/raspiblitz_github-lab+projectsetup_01.png)
 ![tt](./../pictures/raspiblitz_github-lab+projectsetup_02.png)
 ![tt](./../pictures/raspiblitz_github-lab+projectsetup_03.png)
