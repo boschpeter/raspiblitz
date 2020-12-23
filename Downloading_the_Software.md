@@ -27,13 +27,13 @@ Insert the SD card and connect the power plug.
 
 Make sure to connect the raspberry with a LAN cable to the internet at this point.
 Make sure that your laptop and the raspberry are on the same local network.
-![flash](..//picturs/flash_raspiblitz_20201223_00.png)
-![flash](..//picturs/flash_raspiblitz_20201223_01.png)
-![flash](..//picturs/flash_raspiblitz_20201223_02.png)
-![flash](..//picturs/flash_raspiblitz_20201223_04.png)
-![flash](..//picturs/flash_raspiblitz_20201223_05.png)
-![flash](..//picturs/flash_raspiblitz_20201223_06.png)
-![flash](..//picturs/flash_raspiblitz_20201223_07.png)
-![flash](..//picturs/flash_raspiblitz_20201223_08.png)
-![flash](..//picturs/flash_raspiblitz_20201223_09.png)
-![flash](..//picturs/flash_raspiblitz_20201223_10.png)
+![flash](..//pictures/flash_raspiblitz_20201223_00.png)
+![flash](..//pictures/flash_raspiblitz_20201223_01.png)
+![flash](..//pictures/flash_raspiblitz_20201223_02.png)
+![flash](..//pictures/flash_raspiblitz_20201223_04.png)
+![flash](..//pictures/flash_raspiblitz_20201223_05.png)
+![flash](..//pictures/flash_raspiblitz_20201223_06.png)
+![flash](..//pictures/flash_raspiblitz_20201223_07.png)
+![flash](..//pictures/flash_raspiblitz_20201223_08.png)
+![flash](..//pictures/flash_raspiblitz_20201223_09.png)
+![flash](..//pictures/flash_raspiblitz_20201223_10.png)
