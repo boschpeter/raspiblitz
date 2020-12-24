@@ -44,3 +44,22 @@ Make sure that your laptop and the raspberry are on the same local network.
 ![flash](.//pictures/raspiblitz_admin_login_20201222_00.png)
 ![flash](.//pictures/raspiblitz_admin_login_20201222_01.png)
 ![flash](.//pictures/raspiblitz_admin_login_20201222_02.png)
+
+
+## second login  ssh admin@192.168.2.9  pwd=raspiblitz
+
+![flash](.//pictures/raspiblitz_login_00.png)
+![flash](.//pictures/raspiblitz_login_01.png)
+![flash](.//pictures/raspiblitz_login_02.png)
+![flash](.//pictures/raspiblitz_login_03.png)
+![flash](.//pictures/raspiblitz_login_04.png)
+![flash](.//pictures/raspiblitz_login_05.png)
+![flash](.//pictures/raspiblitz_login_06.png)
+![flash](.//pictures/raspiblitz_login_07.png)
+![flash](.//pictures/raspiblitz_login_08.png)
+![flash](.//pictures/raspiblitz_login_09.png)
+![flash](.//pictures/raspiblitz_login_10.png)
+![flash](.//pictures/raspiblitz_login_11.png)
+![flash](.//pictures/raspiblitz_login_12.png)
+![flash](.//pictures/raspiblitz_login_13.png)
+
