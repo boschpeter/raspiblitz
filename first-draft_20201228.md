@@ -1,5 +1,19 @@
 
 
+````
+# RASPIBLITZ CONFIG FILE
+raspiBlitzVersion='1.6.2'
+network=bitcoin
+chain=main
+hostname=LeibnitzRules
+lcd2hdmi=off
+lcdrotate=1
+publicIP='86.86.102.241'
+lndPort='9735'
+lndAddress=''
+````
+
+
 ![tt](.//pictures/raspiblitz_admin_login_20201222_00.png)
 ![tt](.//pictures/raspiblitz_admin_login_20201222_01.png)
 ![tt](.//pictures/raspiblitz_admin_login_20201222_02.png)
