@@ -1,5 +1,5 @@
 
-[tt](.//pictures/raspiblitz_admin_login_20201228_19.png)
+![tt](.//pictures/raspiblitz_admin_login_20201228_19.png)
 ````
 # RASPIBLITZ CONFIG FILE
 raspiBlitzVersion='1.6.2'
