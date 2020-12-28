@@ -13,6 +13,21 @@ lndPort='9735'
 lndAddress=''
 ````
 
+F0..MASTER
+F0..RPC
+F0..LND
+````
+┌───────────────┤ IMPORTANT SEED WORDS - PLEASE WRITE DOWN ├───────────────┐
+  │                                                                          │ 
+  │ LND Wallet got created. Store these numbered words in a safe location:   │ 
+  │                                                                          │ 
+  │ 1:able      2:vessel    3:judge     4:dizzy     5:speed     6:match      │ 
+  │ 7:round     8:gas       9:idea      10:earth    11:pause    12:ritual    │ 
+  │ 13:faith    14:short    15:trumpet  16:bulk     17:acid     18:inside    │ 
+  │ 19:scene    20:special  21:melody   22:grass    23:drip     24:over      │ 
+  │                                                                     
+
+````
 
 ![tt](.//pictures/raspiblitz_admin_login_20201222_00.png)
 ![tt](.//pictures/raspiblitz_admin_login_20201222_01.png)
@@ -43,18 +58,3 @@ lndAddress=''
 ![tt](.//pictures/raspiblitz_admin_login_20201228_23.png)
 
 
-F0..MASTER
-F0..RPC
-F0..LND
-````
-┌───────────────┤ IMPORTANT SEED WORDS - PLEASE WRITE DOWN ├───────────────┐
-  │                                                                          │ 
-  │ LND Wallet got created. Store these numbered words in a safe location:   │ 
-  │                                                                          │ 
-  │ 1:able      2:vessel    3:judge     4:dizzy     5:speed     6:match      │ 
-  │ 7:round     8:gas       9:idea      10:earth    11:pause    12:ritual    │ 
-  │ 13:faith    14:short    15:trumpet  16:bulk     17:acid     18:inside    │ 
-  │ 19:scene    20:special  21:melody   22:grass    23:drip     24:over      │ 
-  │                                                                     
-
-````
