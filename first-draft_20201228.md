@@ -100,13 +100,13 @@ F0..LND
 
 ## happy new year y'all
 
-![tt](.//pictures/rraspiblitz_admin_login_20210103_00.png)
-![tt](.//pictures/rraspiblitz_admin_login_20210103_01.png)
-![tt](.//pictures/rraspiblitz_admin_login_20210103_02.png)
-![tt](.//pictures/rraspiblitz_admin_login_20210103_03.png)
-![tt](.//pictures/rraspiblitz_admin_login_20210103_04.png)
-![tt](.//pictures/rraspiblitz_admin_login_20210103_05.png)
-![tt](.//pictures/rraspiblitz_admin_login_20210103_06.png)
-![tt](.//pictures/rraspiblitz_admin_login_20210103_07.png)
-![tt](.//pictures/rraspiblitz_admin_login_20210103_08.png)
-![tt](.//pictures/rraspiblitz_admin_login_20210103_09.png)
+![tt](.//pictures/raspiblitz_admin_login_20210103_00.png)
+![tt](.//pictures/raspiblitz_admin_login_20210103_01.png)
+![tt](.//pictures/raspiblitz_admin_login_20210103_02.png)
+![tt](.//pictures/raspiblitz_admin_login_20210103_03.png)
+![tt](.//pictures/raspiblitz_admin_login_20210103_04.png)
+![tt](.//pictures/raspiblitz_admin_login_20210103_05.png)
+![tt](.//pictures/raspiblitz_admin_login_20210103_06.png)
+![tt](.//pictures/raspiblitz_admin_login_20210103_07.png)
+![tt](.//pictures/raspiblitz_admin_login_20210103_08.png)
+![tt](.//pictures/raspiblitz_admin_login_20210103_09.png)
