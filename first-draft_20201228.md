@@ -2,11 +2,10 @@
 
 https://zuidugchelen.eu:3001/rtl/lnd/home
 
-
-
-
-
 ![tt](.//pictures/raspiblitz_admin_login_20210103_09.png)
+
+![tt](.//pictures/raspiblitz_leibnitz.png)
+
 
 ![tt](.//pictures/admin_login_20201228_045.png)
 F0..MASTER
