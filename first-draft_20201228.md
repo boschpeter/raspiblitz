@@ -1,4 +1,12 @@
+## Node pubkey 03ab22edbf73cdb181a61121e7b3e3cfe9d49c22eb5b9828e5eecec46d2b59a9d4
 
+https://zuidugchelen.eu:3001/rtl/lnd/home
+
+
+
+
+
+![tt](.//pictures/raspiblitz_admin_login_20210103_09.png)
 
 ![tt](.//pictures/admin_login_20201228_045.png)
 F0..MASTER
