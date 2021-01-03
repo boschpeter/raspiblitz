@@ -7,13 +7,14 @@ https://zuidugchelen.eu:3001/rtl/lnd/home
 ![tt](.//pictures/raspiblitz_leibnitz.png)
 
 ````
-               RaspiBlitz v1.6.2  LeibnitzRules 
+
+           RaspiBlitz v1.6.2  LeibnitzRules 
                Bitcoin Fullnode + Lightning Network 
         ,/     -------------------------------------------
-      ,'/      Refreshed: Sun, 03 Jan 2021 18:27:32 +0000
-    ,' /       CPU load 0.39, 0.43, 0.52, temp 45°C 113°F
-  ,'  /_____,  Free Mem 3290M / 3906M  HDDuse 346G (40%)
- .'____    ,'  SSH admin@192.168.2.54 d25.3MiB u15.2MiB
+      ,'/      Refreshed: Sun, 03 Jan 2021 19:34:50 +0100
+    ,' /       CPU load 0.83, 0.79, 0.67, temp 46°C 115°F
+  ,'  /_____,  Free Mem 3285M / 3906M  HDDuse 346G (40%)
+ .'____    ,'  SSH admin@192.168.2.54 d30.8MiB u25.1MiB
       /  ,'    Web admin --> http://192.168.2.54:3000
      / ,'      bitcoin v0.20.0 mainnet Sync OK 100.00%
     /,'        Public 86.86.102.241:8333 10 connections
@@ -24,6 +25,11 @@ https://zuidugchelen.eu:3001/rtl/lnd/home
 
 03ab22edbf73cdb181a61121e7b3e3cfe9d49c22eb5b9828e5eecec46d2b59a9d4@86.86.102.241:9735
 
+
+open-port-8333
+open-port-9735
+open-port-3000
+open-port-3001
 
 ````
 ---
