@@ -1,4 +1,4 @@
-## Fund your on chain wallet c1qp3mjnnpm20rmn9mxe3uq97ha5fu2y8z2e6gwpt
+## Fund your on chain wallet bc1qp3mjnnpm20rmn9mxe3uq97ha5fu2y8z2e6gwpt
 
 
 
