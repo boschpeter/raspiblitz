@@ -6,6 +6,27 @@ https://zuidugchelen.eu:3001/rtl/lnd/home
 
 ![tt](.//pictures/raspiblitz_leibnitz.png)
 
+````
+               RaspiBlitz v1.6.2  LeibnitzRules 
+               Bitcoin Fullnode + Lightning Network 
+        ,/     -------------------------------------------
+      ,'/      Refreshed: Sun, 03 Jan 2021 18:27:32 +0000
+    ,' /       CPU load 0.39, 0.43, 0.52, temp 45°C 113°F
+  ,'  /_____,  Free Mem 3290M / 3906M  HDDuse 346G (40%)
+ .'____    ,'  SSH admin@192.168.2.54 d25.3MiB u15.2MiB
+      /  ,'    Web admin --> http://192.168.2.54:3000
+     / ,'      bitcoin v0.20.0 mainnet Sync OK 100.00%
+    /,'        Public 86.86.102.241:8333 10 connections
+   /'          
+               LND 0.11.1-beta wallet 0 sat 
+               0/0 Channels 0 sat 0 peers
+               Fee Report: 0-0-0 sat (D-W-M)
+
+03ab22edbf73cdb181a61121e7b3e3cfe9d49c22eb5b9828e5eecec46d2b59a9d4@86.86.102.241:9735
+
+
+````
+---
 
 ![tt](.//pictures/admin_login_20201228_045.png)
 F0..MASTER
